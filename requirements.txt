@@ -1,0 +1,7 @@
+streamlit
+langchain
+langchain-community
+youtube-transcript-api
+pytube
+python-dotenv
+openai
